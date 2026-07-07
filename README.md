@@ -111,7 +111,7 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [Matplotlib](link_to_documentation_or_repo) | Static, interactive, and animated visualizations | Data Analysis & Visualization |
 | [Seaborn](link_to_documentation_or_repo) | Statistical data visualization | Data Analysis & Visualization |
 | [Plotly](link_to_documentation_or_repo) | Interactive, web-based visualizations | Data Analysis & Visualization |
-| [Blueprints](https://github.com/bjpop/blueprints) | Structural calculations per Eurocode | Structural |
+| [Blueprints](https://github.com/Blueprints-org/blueprints) | Structural calculations per Eurocode | Structural |
 | [IndeterminateBeam](https://github.com/JesseBonanno/IndeterminateBeam) | Indeterminate beam solver | Structural |
 | [Anastruct](https://anastruct.readthedocs.io/en/latest/) | 2D frame analysis | Structural |
 | [ak_sap](https://github.com/rpakishore/ak_sap) | SAP2000 FE model control | Structural |
